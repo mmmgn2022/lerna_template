@@ -1,4 +1,4 @@
-# Purwadhika Final Project Repository
+# Lerna Template for Final Project Repository
 
 This is monorepo contain frontend project using ReactJS and backend project using ExpressJS.
 
